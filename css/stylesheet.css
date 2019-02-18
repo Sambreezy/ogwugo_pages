@@ -1558,4 +1558,694 @@
     background-color: #4CAF50;
   }
 
+.secure_maindiv {
+    background-image: url('../images/secure.png'); 
+    height: 160px; 
+    background-size: cover; 
+    background-position: center;
+}
 
+.secure_h31 {
+    color: #fb790b; 
+    padding-top: 8%;
+}
+
+.secure_hr1 {
+    border: 0.5px solid silver;
+}
+
+.secure_h32 {
+    color: #fb790b; 
+    padding-top: 2%;
+}
+
+.secure_p1 {
+    color: #666; 
+    font-size: 1.3em; 
+    padding-top: 5.5%; 
+    line-height: 1.1;
+}
+
+.secure_p2 {
+    color: #666; 
+    font-size: 1.3em; 
+    line-height: 1.1;
+}
+
+.secure_p3 {
+    color: #666; 
+    font-size: 1.3em;
+}
+
+.secure_hr2 {
+    border: 0.5px solid silver;
+}
+
+.secure_h33 {
+    color: #fb790b; 
+    padding-top: 2%;
+}
+
+.secure_p4 {
+    color: #666; 
+    font-size: 1.3em; 
+    padding-top: 5.5%;
+}
+
+.secure_p5 {
+    color: #666; 
+    font-size: 1.3em; 
+    line-height: 1.1;
+}
+
+.secure_hr3 {
+    border: 0.5px solid silver;
+}
+
+.secure_h34 {
+    color: #fb790b; 
+    padding-top: 2%;
+}
+
+.secure_p6 {
+    color: #666; 
+    font-size: 1.3em; 
+    padding-top: 5.5%;
+}
+
+.secure_p7 {
+    color: #666; 
+    font-size: 1.3em;
+}
+
+.secure_hr4 {
+    border: 0.5px solid silver;
+}
+
+.secure_div1 {
+    background-color: white; 
+    margin-top: 4.5%; 
+    padding-top: 4%; 
+    padding-bottom: 5.2%; 
+    width:110%;
+}
+
+.secure_h21 {
+    padding-left: 2.5%; 
+    color: #333;
+}
+
+.secure_p8 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    padding-top: 2.1%;
+}
+
+.secure_p9 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em;
+}
+
+.secure_img1 {
+    margin-left: -12%; 
+    height: 330px; 
+    margin-top: -5.4%;
+}
+
+.secure_div2 {
+    background-color: white; 
+    margin-top: 4.7%; 
+    padding-top: 4%;
+    padding-bottom: 4.3%; 
+    width:110%;
+}
+
+.secure_h22 {
+    padding-left: 2.5%; 
+    color: #333;
+}
+
+.secure_p10 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.7em; 
+    padding-top: 1.9%; 
+    line-height: 0.9;
+}
+
+.secure_p11 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em;
+}
+
+.secure_p12 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.7em; 
+    padding-top: 8%;
+}
+
+.secure_p13 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    margin-top: -1%;
+}
+
+.secure_p14 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.1em;
+}
+
+.secure_p15 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.7em; 
+    padding-top: 3%;
+}
+
+.secure_p16 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    margin-top: -1%;
+}
+
+.secure_img2 {
+    height: 305px; 
+    padding-top: 1.5%; 
+    padding-right: 6%;
+}
+
+.secure_img3 {
+    padding-right: 6%; 
+    padding-top: 17.3%;
+}
+
+.secure_div3 {
+    background-color: white; 
+    margin-top: 4.7%; 
+    padding-top: 4%; 
+    padding-bottom: 4.3%; 
+    width: 110%;
+}
+
+.secure_h23 {
+    padding-left: 2.5%; 
+    color: #333;
+}
+
+.secure_p17 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.7em; 
+    padding-top: 3%; 
+    line-height: 0.9;
+}
+
+.secure_p18 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em;
+}
+
+.secure_p19 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    padding-top: 37%;
+}
+
+.secure_p20 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.7em; 
+    padding-top: 47%;
+}
+
+.secure_p21 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    margin-top: -1%;
+}
+
+.secure_img4 {
+    padding-top: 3.1%;
+}
+
+.secure_img5 {
+    padding-top: 10.3%;
+}
+
+.secure_img6 {
+    padding-top: 10.3%;
+}
+
+.secure_div4 {
+    background-color: white; 
+    margin-top: 4.7%; 
+    padding-top: 4%; 
+    padding-bottom: 4.3%;
+    width:110%;
+}
+
+.secure_h24 {
+    padding-left: 2.5%; 
+    color: #333;
+}
+
+.secure_p22 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.7em; 
+    padding-top: 3%; 
+    line-height: 0.9;
+}
+
+.secure_p23 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em;
+}
+
+.secure_p24 {
+    padding-left: 4.1%;
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    padding-top: 27%;
+}
+
+.secure_p25 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    padding-top: 6%;
+}
+
+.secure_p26 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.7em; 
+    padding-top: 24%; 
+    line-height: 0.9;
+}
+
+.secure_p27 {
+    padding-left: 4.1%; 
+    color: rgb(51, 51, 51); 
+    font-size: 1.24em; 
+    margin-top: -1%;
+}
+
+.secure_img7 {
+    padding-top: 3.1%; 
+    height: 185px; 
+    padding-right: 6%;
+}
+
+.secure_img8 {
+    padding-top: 8.8%; 
+    padding-right: 6%; 
+    height: 220px;
+}
+
+.secure_img9 {
+    padding-top: 17%; 
+    padding-right: 6%;
+}
+
+.seller_maindiv {
+    background-image: url('../images/seller.jpg'); 
+    height: 530px; 
+    background-size: cover; 
+    background-position: center;
+}
+
+.seller_seconddiv {
+    margin-left: 2%; 
+    padding-top: 14.1%;
+}
+
+.seller_h31 {
+    color: white; 
+    font-size: 3.5em; 
+    text-align: center;
+}
+
+.seller_p1 {
+    color: #e0dfe0; 
+    text-align: center; 
+    font-size: 1.5em; 
+    padding-top: 1.3%;
+}
+
+.seller_h11 {
+    text-align: center; 
+    font-size: 3.2em; 
+    padding-top: 6%;
+}
+
+.seller_h41 {
+    font-size: 1.6em; 
+    padding-left: 17%;
+}
+
+.seller_p2 {
+    font-size: 1.1em; 
+    color: #666; 
+    padding-left: 17%;
+}
+
+.seller_h42 {
+    font-size: 1.6em; 
+    padding-left: 6.5%;
+}
+
+.seller_p3 {
+    font-size: 1.1em; 
+    color: #666; 
+    padding-left: 6.5%;
+}
+
+.seller_h43 {
+    font-size: 1.6em; 
+    padding-right: 17%;
+}
+
+.seller_p4 {
+    font-size: 1.1em; 
+    color: #666; 
+    padding-right: 17%;
+}
+
+.seller_h44 {
+    font-size: 1.6em; 
+    padding-left: 17%;
+}
+
+.seller_p5 {
+    font-size: 1.1em; 
+    color: #666; 
+    padding-left: 17%;
+}
+
+.seller_h45 {
+    font-size: 1.6em; 
+    padding-left: 6.5%;
+}
+
+.seller_p6 {
+    font-size: 1.1em; 
+    color: #666; 
+    padding-left: 6.5%;
+}
+
+.seller_h46 {
+    font-size: 1.6em; 
+    padding-right: 17%;
+}
+
+.seller_p7 {
+    font-size: 1.1em; 
+    color: #666; 
+    padding-right: 17%;
+}
+
+.seller_div1 {
+    background-color: #0077c0; 
+    padding-top: 3.7%; 
+    padding-bottom: 4%;
+    margin-top: 5%;
+}
+
+.seller_h12 {
+    color: white; 
+    text-align: center; 
+    font-size: 3.2em;
+}
+
+.seller_p8 {
+    color: white; 
+    text-align: center; 
+    font-size: 1.6em; 
+    padding-top: 1.5%;
+}
+
+.seeler_h2 {
+    padding-left: 15%;
+}
+
+.seller_p9 {
+    font-size: 1.2em; 
+    padding-left: 15%; 
+    color: #666;
+}
+
+.seller_p10 {
+    font-size: 1.2em; 
+    color: #666;
+}
+
+.seller_p11 {
+    font-size: 1.2em; 
+    text-align: center; 
+    color: #666; 
+    padding-top: 4%; 
+    line-height: 1.7; 
+    padding-bottom: 6%;
+}
+
+.hr {
+    border: 0.6px dotted silver; 
+    width: 88%;
+}
+
+.assure_maindiv {
+    background-image: url('../images/agree.jpg'); 
+    opacity: 0.8; 
+    height: 632px; 
+    background-size: cover; 
+    background-position: center -120px;
+}
+
+.assure_seconddiv {
+    margin-left: 7%; 
+    padding-top: 14%;
+}
+
+.assure_h31 {
+    color: wheat; 
+    font-size: 2.5em;
+}
+
+.assure_h11 {
+    color: wheat; 
+    margin-top: -0.5%; 
+    font-size: 3.6em; 
+    font-family: arial;
+}
+
+.assure_p1 {
+    color: wheat; 
+    margin-top: 1.6%; 
+    font-size: 1.5em;
+}
+
+.assure_h41 {
+    margin-left: 7%; 
+    font-size: 1.6em;
+}
+
+.assure_img1 {
+    padding-left: 10%;
+}
+
+.assure_h12 {
+    margin-top: 0%; 
+    font-family: Roboto,sans-serif; 
+    color: #333;
+}
+
+.assure_p2 {
+    font-size: 1.2em; 
+    padding-top: 5%; 
+    font-family: Roboto,sans-serif; 
+    color: #666;
+}
+
+#assure_div1 {
+    padding-top: 5%; 
+    padding-bottom: 5%; 
+    border-top: 1px solid #EBECF0; 
+    border-bottom: 1px solid #EBECF0; 
+    background-color: #f7f8fa;
+}
+
+.assure_h13 {
+    padding-left: 10%;
+}
+
+.assure_p3 {
+    padding-left: 10%; 
+    margin-top: -3%; 
+    font-size: 1.2em; 
+    padding-top: 5%; 
+    font-family: Roboto,sans-serif; 
+    color: #666;
+}
+
+.assure_p4 {
+    padding-left: 10%; 
+    margin-top: -2.7%; 
+    font-size: 1.2em; 
+    padding-top: 5%; 
+    font-family: Roboto,sans-serif; 
+    color: #666;
+}
+
+.assure_p5 {
+    padding-left: 10%; 
+    font-size: 1.2em; 
+    padding-top: 5%; 
+    font-family: Roboto,sans-serif; 
+    color: #666;
+}
+
+.assure_button {
+    color: #666; 
+    border-radius: 24px; 
+    border: 2px solid #333; 
+    background-color: white; 
+    width: 28%; 
+    font-size: 1.15em;
+}
+
+.assure_link {
+    font-size: 1.2em; 
+    padding-left: 3%; 
+    text-decoration: none;
+}
+
+.assure_img2 {
+    margin-top: -11%;
+}
+
+.assure_img3 {
+    padding-top: 9%;
+}
+
+.assure_img4 {
+    padding-top: 30%;
+}
+
+.assure_h14 {
+    text-align: center; 
+    padding-top: 3.5%;
+}
+
+.assure_p6 {
+    text-align: center; 
+    color: #666; 
+    font-size: 1.1em; 
+    font-family: Roboto,sans-serif;
+}
+
+.assure_img5 {
+    padding-left: 40%;
+}
+
+.assure_img6 {
+    padding-left: 22%; 
+    margin-top: -9%;
+}
+
+.assure_h32 {
+    padding-left: 15%; 
+    font-size: 1.8em;
+}
+
+.assure_p7 {
+    padding-left: 22%; 
+    font-size: 1.19em; 
+    font-family: Roboto,sans-serif; 
+    padding-top:4%; 
+    color: #666;
+}
+
+.assure_h33 {
+    padding-top: 17%; 
+    padding-left: 14%; 
+    font-size: 1.8em;
+}
+
+.assure_p8 {
+    padding-left: 24.5%; 
+    font-size: 1.19em; 
+    font-family: Roboto,sans-serif; 
+    padding-top:4%; 
+    color: #666;
+}
+
+.assure_h34 {
+    padding-left: 12%; 
+    font-size: 1.8em;
+}
+
+.assure_p9 {
+    padding-left: 21.5%; 
+    font-size: 1.19em; 
+    font-family: Roboto,sans-serif; 
+    padding-top:4%; 
+    color: #666;
+}
+
+.assure_p10 {
+    padding-left: 21.5%; 
+    color: #666; 
+    padding-top: 2%;
+}
+
+.assure_h35 {
+    padding-top: 10%; 
+    padding-left: 12%; 
+    font-size: 1.8em;
+}
+
+.assure_p11 {
+    padding-left: 21.5%; 
+    font-size: 1.19em; 
+    font-family: Roboto,sans-serif; 
+    padding-top:4%; 
+    color: #666;
+}
+
+.assure_lastdiv {
+    background-image: url('../images/lapyyy.jpg'); 
+    height: 590px; 
+    background-size: cover; 
+    background-position: center -900px;
+}
+
+.assure_lastinnerdiv {
+    margin-left: 4%; 
+    padding-top: 10%;
+}
+
+.assure_lasth3 {
+    font-size: 3em; 
+    color: white; 
+    text-align: center;
+}
+
+.assure_lastp {
+    color: white; 
+    text-align: center; 
+    padding-top: 0.8%; 
+    line-height: 1.8; 
+    font-size: 1.1em;
+}
