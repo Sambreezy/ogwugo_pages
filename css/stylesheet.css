@@ -1472,7 +1472,7 @@
   }
   
   #regForm {
-    background-color: silver;
+    background-color: white;
     margin: 100px auto;
     font-family: Raleway;
     padding: 40px;
@@ -1486,6 +1486,15 @@
     font-size: 1.7em; 
     color: #666;
   }
+
+  #multi_top {
+      padding-top: 35px;
+  }
+
+  .control-label {
+      font-size: 1.1em;
+      margin-right: -20px;
+  }
   
   input {
     padding: 10px;
@@ -1494,9 +1503,70 @@
     font-family: Raleway;
     border: 1px solid #aaaaaa;
   }
-  
+
+  #email {
+    padding: 20px;
+    width: 60%;
+    font-size: 18px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+  }
+
+  #name {
+    padding: 20px;
+    width: 60%;
+    font-size: 18px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+  }
+
+  #namee {
+    padding: 20px;
+    width: 60%;
+    font-size: 18px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+  }
+
+  #pwd {
+    padding: 20px;
+    width: 60%;
+    font-size: 18px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+  }
+
+  #phone {
+    padding: 20px;
+    width: 60%;
+    font-size: 18px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+  }
+
   /* Mark input boxes that gets an error on validation: */
   input.invalid {
+    background-color: #ffdddd;
+  }
+
+  #email.invalid {
+    background-color: #ffdddd;
+  }
+
+  #name.invalid {
+    background-color: #ffdddd;
+  }
+
+  #namee.invalid {
+    background-color: #ffdddd;
+  }
+
+
+  #pwd.invalid {
+    background-color: #ffdddd;
+  }
+
+  #phone.invalid {
     background-color: #ffdddd;
   }
   
@@ -1513,17 +1583,23 @@
     font-size: 17px;
     font-family: Raleway;
     cursor: pointer;
+    width: 180px;
   }
   
   button:hover {
     opacity: 0.8;
+  }
+
+  .multi_button {
+      margin-left: 307px;
+      margin-top: 40px;
   }
   
   #prevBtn {
     background-color: #ff7519;
     border: 1px solid #ff7519;
     border-radius: 3px;
-    color: white;
+    color: #999999;
     font-size: 1.2em;
     font-weight: bold;
   }
@@ -1532,31 +1608,60 @@
       background-color: #ff7519;
       border: 1px solid #ff7519;
       border-radius: 3px;
-      color: white;
+      color: #999999;
       font-size: 1.2em;
       font-weight: bold;
   }
   
   /* Make circles that indicate the steps of the form: */
   .step {
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
+    height: 30px;
+    width: 30px;
+    margin: 0 5px;
     background-color: #bbbbbb;
     border: none;  
     border-radius: 50%;
     display: inline-block;
     opacity: 0.5;
+    margin-bottom: -9px;
   }
   
   .step.active {
     opacity: 1;
+    background-color: #ff7519;
   }
   
   /* Mark the steps that are finished and valid: */
   .step.finish {
-    background-color: #4CAF50;
+    background-color: #ff7519;
+    opacity: 0.5;    
   }
+
+.multi_class1 {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.multi_class2 {
+    margin-left: 415px;
+    margin-top: -31px;
+}
+
+.multi_class3 {
+    margin-left: 695px;
+    margin-top: -32.5px;
+}
+
+.multi_class4 {
+    margin-left: 130px;
+}
+
+.multi_horizontal {
+    border: 1px solid;
+    color: #c8d2e0;
+    width: 1040px;
+    margin-left: -30px;
+}
 
 .secure_maindiv {
     background-image: url('../images/secure.png'); 

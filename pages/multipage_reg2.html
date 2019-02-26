@@ -1,0 +1,121 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/stylesheet.css" />
+    <script src="main.js"></script>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<style>
+    #multi_linkk {
+        color: #8f86cf;
+    }
+
+    #multi_linkk:hover {
+        color: #ff7519;
+    }
+</style>
+<body>
+        <form id="regForm" class="form-horizontal" action="/action_page.php">
+            <div class="container">
+                <div class="multi_class4"><span class="step"></span><span class="multi_class1">Verification</span></div><div class="multi_class2"><span class="step"></span><span class="multi_class1">Information</span></div><div class="multi_class3"><span class="step"></span><span class="multi_class1">Complete</span></div>
+                <hr class="multi_horizontal">
+            </div>
+            <div class="tab">
+                <div class="form-group" id="multi_top">
+                    <label class="control-label col-sm-4" for="email">E-mail</label>
+                    <div class="col-sm-8">
+                        <input type="email" class="form-control" id="email" oninput="this.className = ''" placeholder="Please enter your e-mail" name="email">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-4" for="name">Full name</label>
+                    <div class="col-sm-8">          
+                        <input type="text" class="form-control" id="name" oninput="this.className = ''" placeholder="Please enter your full name" name="name">
+                    </div>
+                </div>    
+            </div>
+            <div class="tab">
+                <div class="form-group" id="multi_top">
+                    <label class="control-label col-sm-4" for="pwd">Password</label>
+                    <div class="col-sm-8">
+                      <input type="password" class="form-control" id="pwd" oninput="this.className = ''" placeholder="Please enter your password" name="pwd">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-4" for="pwd">Confirm password</label>
+                    <div class="col-sm-8">          
+                      <input type="password" class="form-control" id="pwd" oninput="this.className = ''" placeholder="Please retype your password" name="pwd">
+                    </div>
+                </div>  
+                <div class="form-group">
+                    <label class="control-label col-sm-4" for="sel1">Location</label>
+                    <div class="col-sm-8">
+                        <select class="form-control" id="sel1" style="width: 60%">
+                            <option>Nigeria</option>
+                            <option>North Korea</option>
+                            <option>Northern Islands</option>
+                            <option>Norway</option>
+                        </select>          
+                    </div>
+                </div> 
+                <div class="form-group">
+                    <label class="control-label col-sm-4" for="radio">I am a</label>
+                    <div class="col-sm-8">
+                        <label class="radio-inline">
+                            <input type="radio" name="optradio" id="radio">Supplier
+                        </label>
+                        <label class="radio-inline">
+                            <input type="radio" name="optradio" id="radio">Buyer
+                        </label>
+                        <label class="radio-inline">
+                            <input type="radio" name="optradio" id="radio">Both
+                        </label>
+                    </div>
+                </div> 
+                <div class="form-group">
+                    <label class="control-label col-sm-4" for="namee">Company name</label>
+                    <div class="col-sm-8">          
+                        <input type="text" class="form-control" id="namee" oninput="this.className = ''" placeholder="Must be a legally registered company" name="name">
+                    </div>
+                </div> 
+                <div class="form-group">
+                    <label class="control-label col-sm-4" for="phone">Tel</label>
+                    <div class="col-sm-8">          
+                        <input type="phone" class="form-control" id="phone" oninput="this.className = ''" placeholder="Must start with country code" name="phone">
+                    </div>
+                </div> 
+            </div>
+            <div class="tab">
+                <div class="form-group" id="multi_top">
+                    <label class="control-label col-sm-4"></label>
+                    <div class="col-sm-8"> 
+                        <div class="checkbox">
+                            <label><input style="margin-left: -230px" type="checkbox" value=""><span style="margin-left: -195px">Upon creating my account, I agree to:</span><br>-The <a href="#" id="multi_linkk">Ogwugo.com User Agreement</a><br>-Receive emails related to Ogwugo.com membership and services</label>
+                        </div>
+                    </div>
+                </div> 
+                    
+                
+            </div>
+            <div style="overflow:auto;">
+                <div class="multi_button">
+                  <button type="button" id="prevBtn" onclick="nextPrev(-1)">Previous</button>
+                  <button type="button" id="nextBtn" onclick="nextPrev(1)">Next</button>
+                </div>
+            </div>
+            
+        </form>
+          
+ <!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
+<script src="../js/style.js"></script>   
+</body>
+</html>

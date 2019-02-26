@@ -156,7 +156,7 @@ include('header.php');
 
 
 
-                      <?php include('pages/dispute.html');?>
+                      <?php include('pages/multipage_reg2.html');?>
 
 
 
